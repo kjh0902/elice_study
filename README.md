@@ -1,2 +1,2 @@
 # elice_study
-study in elice
+엘리스에서 공부한 내용
